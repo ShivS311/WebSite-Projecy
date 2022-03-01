@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background: url("/img/Valorant.png") no-repeat center fixed;
+    background-size: cover;
+
+}
+h1 {
+color: royalblue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2 {
+    text-decoration: underline;
+    color: steelblue;
+    font-variant: small-caps;
+}
+p {
+    font-variant: normal;
+    font-family: cursive;
+    color: chartreuse;
+}
+
+#link {
+    font-variant: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 30px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#heading {
+    color:chartreuse;
+}
+
+#cool {
+    color:chartreuse;
+}
